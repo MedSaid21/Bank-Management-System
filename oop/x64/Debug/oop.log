@@ -1,0 +1,78 @@
+﻿  Source.cpp
+C:\Users\Student\source\repos\oop\oop\Source.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Student\source\repos\oop\oop\Source.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Student\source\repos\oop\oop\clsString.h(40,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Student\source\repos\oop\oop\clsString.h(45,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Student\source\repos\oop\oop\clsString.h(57,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Student\source\repos\oop\oop\clsString.h(194,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Student\source\repos\oop\oop\clsString.h(325,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Student\source\repos\oop\oop\clsString.h(373,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Student\source\repos\oop\oop\Source.cpp(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Student\source\repos\oop\oop\clsBankClient.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Student\source\repos\oop\oop\clsUtil.h(66,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Student\source\repos\oop\oop\clsUser.h(192,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Source.cpp')
+  C:\Users\Student\source\repos\oop\oop\clsUser.h(24,12):
+  see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\Student\source\repos\oop\oop\clsBankClient.h(174,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Source.cpp')
+  C:\Users\Student\source\repos\oop\oop\clsBankClient.h(139,12):
+  see declaration of 'clsBankClient::stTrnsferLogRecord'
+  
+C:\Users\Student\source\repos\oop\oop\clsBankClient.h(30,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Student\source\repos\oop\oop\clsBankClient.h(149,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Student\source\repos\oop\oop\clsBankClient.h(150,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Student\source\repos\oop\oop\clsBankClient.h(151,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Student\source\repos\oop\oop\clsBankClient.h(359,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Student\source\repos\oop\oop\clsBankClient.h(368,33): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Student\source\repos\oop\oop\Source.cpp(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Student\source\repos\oop\oop\Source.cpp(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Student\source\repos\oop\oop\Source.cpp(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Student\source\repos\oop\oop\clsInputValidate.h(159,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Student\source\repos\oop\oop\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Student\source\repos\oop\oop\clsTransferScreen.h(45,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Student\source\repos\oop\oop\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Student\source\repos\oop\oop\clsLoginScreen.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Student\source\repos\oop\oop\clsBankClient.h(323,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\Student\source\repos\oop\oop\clsBankClient.h(372,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+C:\Users\Student\source\repos\oop\oop\clsUser.h(350,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  oop.vcxproj -> C:\Users\Student\source\repos\oop\x64\Debug\oop.exe
